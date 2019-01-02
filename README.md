@@ -69,6 +69,11 @@ Additionally, note that:
 
 When you're all finished, write a `README` file detailing all steps required to successfully run the application. If you have added additional tests, provide documentation for what these future features are and what the tests are checking for.
 
+# Running the tests
+
+1. Open the index.html file. You will find all the test cases there.
+
+
 # Contributing
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
